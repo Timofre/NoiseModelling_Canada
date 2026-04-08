@@ -9,7 +9,7 @@ This document explains how to compile and run all parts of the NoiseModelling pr
 | Tool | Minimum Version | Notes |
 |------|----------------|-------|
 | Java (JDK) | 11 | Java 11 or later required; tested with OpenJDK 17 |
-| Apache Maven | 3.6+ | Used for the core library modules |
+| Apache Maven | 3.6+ | Used for the core library modules; tested with Maven 3.9.9 |
 | Gradle | 7+ (or use the included wrapper) | Used for the `wps_scripts` command-line application |
 | Docker | any recent version | Optional – required only for PostGIS integration tests |
 
